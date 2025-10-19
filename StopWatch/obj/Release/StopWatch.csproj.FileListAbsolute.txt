@@ -1,0 +1,10 @@
+D:\プログラミング\StopWatch Sound\StopWatch\bin\Release\StopWatch.exe.config
+D:\プログラミング\StopWatch Sound\StopWatch\bin\Release\StopWatch.exe
+D:\プログラミング\StopWatch Sound\StopWatch\bin\Release\StopWatch.pdb
+D:\プログラミング\StopWatch Sound\StopWatch\obj\Release\StopWatch.csproj.AssemblyReference.cache
+D:\プログラミング\StopWatch Sound\StopWatch\obj\Release\StopWatch.StopWatch.resources
+D:\プログラミング\StopWatch Sound\StopWatch\obj\Release\StopWatch.Properties.Resources.resources
+D:\プログラミング\StopWatch Sound\StopWatch\obj\Release\StopWatch.csproj.GenerateResource.cache
+D:\プログラミング\StopWatch Sound\StopWatch\obj\Release\StopWatch.csproj.CoreCompileInputs.cache
+D:\プログラミング\StopWatch Sound\StopWatch\obj\Release\StopWatch.exe
+D:\プログラミング\StopWatch Sound\StopWatch\obj\Release\StopWatch.pdb

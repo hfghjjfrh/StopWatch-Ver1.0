@@ -1,0 +1,41 @@
+C:\Users\1\source\repos\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+C:\Users\1\source\repos\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+C:\Users\1\source\repos\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+C:\Users\1\source\repos\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\StopWatch\StopWatch\obj\Debug\StopWatch.Properties.Resources.resources
+C:\Users\1\source\repos\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.cache
+C:\Users\1\source\repos\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+C:\Users\1\source\repos\StopWatch\StopWatch\obj\Debug\StopWatch.pdb
+C:\Users\1\source\repos\StopWatch\StopWatch\obj\Debug\StopWatch.StopWatch.resources
+C:\StopWatch Sound\StopWatch\bin\Debug\StopWatch.exe.config
+C:\StopWatch Sound\StopWatch\bin\Debug\StopWatch.exe
+C:\StopWatch Sound\StopWatch\bin\Debug\StopWatch.pdb
+C:\StopWatch Sound\StopWatch\obj\Debug\StopWatch.csproj.AssemblyReference.cache
+C:\StopWatch Sound\StopWatch\obj\Debug\StopWatch.StopWatch.resources
+C:\StopWatch Sound\StopWatch\obj\Debug\StopWatch.Properties.Resources.resources
+C:\StopWatch Sound\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.cache
+C:\StopWatch Sound\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+C:\StopWatch Sound\StopWatch\obj\Debug\StopWatch.exe
+C:\StopWatch Sound\StopWatch\obj\Debug\StopWatch.pdb
+C:\Users\1\Desktop\StopWatch Sound\StopWatch\bin\Debug\StopWatch.exe.config
+C:\Users\1\Desktop\StopWatch Sound\StopWatch\bin\Debug\StopWatch.exe
+C:\Users\1\Desktop\StopWatch Sound\StopWatch\bin\Debug\StopWatch.pdb
+C:\Users\1\Desktop\StopWatch Sound\StopWatch\obj\Debug\StopWatch.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\StopWatch Sound\StopWatch\obj\Debug\StopWatch.StopWatch.resources
+C:\Users\1\Desktop\StopWatch Sound\StopWatch\obj\Debug\StopWatch.Properties.Resources.resources
+C:\Users\1\Desktop\StopWatch Sound\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.cache
+C:\Users\1\Desktop\StopWatch Sound\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\StopWatch Sound\StopWatch\obj\Debug\StopWatch.exe
+C:\Users\1\Desktop\StopWatch Sound\StopWatch\obj\Debug\StopWatch.pdb
+D:\プログラミング\StopWatch Sound\StopWatch\obj\Debug\StopWatch.csproj.AssemblyReference.cache
+D:\プログラミング\StopWatch Sound\StopWatch\obj\Debug\StopWatch.exe.config
+D:\プログラミング\StopWatch Sound\StopWatch\obj\Debug\StopWatch.StopWatch.resources
+D:\プログラミング\StopWatch Sound\StopWatch\obj\Debug\StopWatch.Properties.Resources.resources
+D:\プログラミング\StopWatch Sound\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.cache
+D:\プログラミング\StopWatch Sound\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+D:\プログラミング\StopWatch Sound\StopWatch\obj\Debug\StopWatch.exe
+D:\プログラミング\StopWatch Sound\StopWatch\obj\Debug\StopWatch.pdb
+D:\プログラミング\StopWatch Sound\StopWatch\bin\Debug\StopWatch.exe.config
+D:\プログラミング\StopWatch Sound\StopWatch\bin\Debug\StopWatch.exe
+D:\プログラミング\StopWatch Sound\StopWatch\bin\Debug\StopWatch.pdb
